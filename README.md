@@ -1,8 +1,10 @@
 # Dashboard-practice
-Using react and SyncFunction to build a dashboard
+
+Using react and SyncFunction UI to build a dashboard
+
 <img width="1374" alt="Screenshot 2022-10-29 at 20 31 08" src="https://user-images.githubusercontent.com/64741800/198831657-9110a431-b790-450b-a6fe-3b3fb8e15313.png">
 
-##What I have used in terms of front-end web development skills
+## What I have used in terms of front-end web development skills
 
 ✅ Master the advanced React Practices such as context, hooks, and refs
 
@@ -12,8 +14,6 @@ Using react and SyncFunction to build a dashboard
 
 ✅ Know the differences between jsx and ts formatting from Syncfusion documentation
 
-
-
-#Recommendation
+## Recommendation
 Strongly recommended JavaScript Mastery as the self-learning resources for every developer. Check out the complete project
 https://dashboard-zwl.netlify.app/
