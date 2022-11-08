@@ -1,6 +1,6 @@
 # Dashboard-practice
 
-Using react and SyncFunction UI to build a dashboard
+Using react and SyncFusion UI to build a dashboard
 
 <img width="1374" alt="Screenshot 2022-10-29 at 20 31 08" src="https://user-images.githubusercontent.com/64741800/198831657-9110a431-b790-450b-a6fe-3b3fb8e15313.png">
 
